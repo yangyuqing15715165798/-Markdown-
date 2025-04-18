@@ -85,6 +85,8 @@ yarn build
 4. **导出Word**：点击"导出Word"按钮，将内容转换为Word文档并下载
 
 更多详细使用说明，请参阅 [使用指南](./USAGE.md)。
+## 本人博客链接
+https://blog.csdn.net/weixin_37647148/article/details/147321483?sharetype=blogdetail&sharerId=147321483&sharerefer=PC&sharesource=weixin_37647148&spm=1011.2480.3001.8118
 
 ## 📚 支持的Markdown功能
 
