@@ -13,7 +13,7 @@
 
 ## 界面预览
 
-![编辑器界面预览]
+
 ![image](https://github.com/user-attachments/assets/5c894e18-d43d-44ef-80fd-643f29e5e905)
 
 
