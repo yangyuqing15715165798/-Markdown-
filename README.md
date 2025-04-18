@@ -24,10 +24,8 @@
 - 📱 **响应式设计**：适配多种屏幕尺寸，移动端友好
 
 ## 🖼️ 界面预览
+![image](https://github.com/user-attachments/assets/4ae3b3cc-5858-4536-8247-5657682172d2)
 
-<img src="https://via.placeholder.com/800x450.png?text=Markdown+Editor+Preview" alt="编辑器界面预览" width="800" />
-
-*注：实际使用时请替换为真实截图*
 
 ## 🔧 技术栈
 
