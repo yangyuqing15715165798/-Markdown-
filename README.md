@@ -13,9 +13,9 @@
 
 ## 界面预览
 
-![编辑器界面预览](docs/screenshots/editor-preview.png)
-image.png
-*注：实际使用时请替换为真实截图*
+![编辑器界面预览]
+![image](https://github.com/user-attachments/assets/5c894e18-d43d-44ef-80fd-643f29e5e905)
+
 
 ## 技术栈
 
