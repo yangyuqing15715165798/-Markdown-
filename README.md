@@ -14,7 +14,7 @@
 ## 界面预览
 
 ![编辑器界面预览](docs/screenshots/editor-preview.png)
-
+image.png
 *注：实际使用时请替换为真实截图*
 
 ## 技术栈
